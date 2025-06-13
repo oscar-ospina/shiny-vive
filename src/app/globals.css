@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f5f5f4; /* A light, neutral stone color */
+  color: #44403c; /* A darker stone color for text */
+}
